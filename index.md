@@ -2,15 +2,15 @@
 layout: homepage
 ---
 
-### Under Construction
+### Under Construction:)
 
 ## About Me
 
-I am a Ph.D. student at Meiji university.
+I am a Ph.D. student at Meiji university. 
 
-## Research Interests
+## Keywords
 
-- Mathematical Optimization
+- Nonconvex Optimization
 - Stochastic Optimization
 - Riemannian Optimization
 - Online Learning
