@@ -4,7 +4,7 @@ main:
     authors: Kanata Oowada, Hideaki Iiduka
     conference_short: ACML
     conference: The 17th Asian Conference on Machine Learning <strong>(ACML)</strong>, 2025.
-    pdf: ./assets/file/rsgd_acml2025.pdf
+    pdf: ./assets/files/rsgd_acml2025.pdf
     code: https://github.com/iiduka-researches/RSGD_acml2025
     bibtex: https://proceedings.mlr.press/v304/oowada26a.html
     notes: Best Paper Runner-up Award
