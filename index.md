@@ -8,7 +8,7 @@ layout: homepage
 
 I am a Ph.D. student at Meiji university. 
 
-## Keywords
+## Research Interests
 
 - Nonconvex Optimization
 - Stochastic Optimization
