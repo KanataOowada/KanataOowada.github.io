@@ -1,7 +1,7 @@
 main:
 
   - title: Faster Convergence of Riemannian Stochastic Gradient Descent with Increasing Batch Size
-    authors: Kanata Oowada, Hideaki Iiduka
+    authors: <strong>Kanata Oowada<\strong>, Hideaki Iiduka
     conference_short: ACML
     conference: The 17th Asian Conference on Machine Learning <strong>(ACML)</strong>, 2025.
     pdf: ./assets/files/rsgd_acml2025.pdf
