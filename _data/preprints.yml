@@ -1,7 +1,7 @@
 main:
 
   - title: "On the Convergence of Vanilla Adam under Heavy-Tailed Noise and Index Sampling"
-    authors: "<strong>Kanata Oowada<\strong>, Hideaki Iiduka"
+    authors: "<strong>Kanata Oowada</strong>, Hideaki Iiduka"
     conference_short: "arXiv"
     conference: "arxiv preprint, 2026"
     pdf: "https://arxiv.org/pdf/2611.03201"
